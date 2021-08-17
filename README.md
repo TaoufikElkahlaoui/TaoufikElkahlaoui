@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TaoufikElkahlaoui
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning web dev using ionic
+- 🌱 I’m currently learning mobile dev using react
 - 💞️ I’m looking to collaborate on my learning
 - 📫 How to reach me 
       facebook : Tawfik ek 
